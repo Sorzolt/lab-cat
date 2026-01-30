@@ -4,6 +4,7 @@ This program prints stdin to the screen.
 #!/usr/bin/env python3
 import sys
 
+
 _BUFFER_SIZE = 1024 * 64
 
 
